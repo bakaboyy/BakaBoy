@@ -1,0 +1,10 @@
+[
+    {
+        "cookie": "cookie1",
+        "webhook": "webhook1"
+    },
+    {
+        "cookie": "cookie2",
+        "webhook": "webhook2"
+    }
+]
